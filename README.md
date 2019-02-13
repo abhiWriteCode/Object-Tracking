@@ -4,7 +4,7 @@
 
 ### dependencies
 ```python
-pip install pip install opencv-contrib-python==3.4.5.20
+pip install opencv-contrib-python==3.4.5.20
 ```
 
 
